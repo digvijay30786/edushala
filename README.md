@@ -1,4 +1,4 @@
-##  Internshala Project
+##  Edushala Project
 About- This is a working clone of the online internship and training platform INTERNSHALA. This project is the part of the construct week of Unit-2 at Masai School, this project has been done in order to learn the basic working of a website by implementing HTML5, CSS3, JavaScript. Working on this project was really fun and we learned a lot of new things that goes into building a website. This is our first collaborative project under the guidance of Masai Team to facilitate the full stack web development curriculam.
 
 Working
@@ -20,6 +20,23 @@ Working
 5. Register and Login as an Employer Page
 6. New internship adding page
 
+## Screenshots
+
+### Landing Page :
+<img src="https://imgur.com/EY5S3kn.png"/>
+
+### Internship Page :
+<img src="https://imgur.com/0zwfqcr.png"/>
+
+### Online Training Page :
+<img src="https://imgur.com/AMyfYir.png"/>
+
+### Student Signup / Login Page :
+<img src="https://imgur.com/UlZzcGj.png"/>
+
+###  Employer Signup / Login Page : 
+<img src="https://imgur.com/LSd2zgE.png"/>
+
 ##  Functionalities Added
 1. Responsiveness to Landing page 
 2. Responsiveness to Internships page
@@ -35,3 +52,16 @@ All images, logos and illustrations are taken from Internshala website itself (h
 
 ## External Libraries
 No external library has been used in this project, Only JQuery CDN has been used to make popups functional.
+
+## Setup in Local System
+
+Copy Clone Script
+
+```bash
+git clone https://github.com/digvijay30786/edushala.git
+```
+open index file in browser
+
+```bash
+./index.html
+```
